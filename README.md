@@ -30,14 +30,14 @@ To run this code, you will need the following Python libraries:
 ## Installation <a name="install"></a>
 
 1. Clone the repository:
-   `git clone https://github.com/mmhaashir/Fast-Gradient-Adversarial-Attack-on-ImageNet.git`
+   `git clone https://github.com/mmhaashir/HopSkipJump-Targeted-Adversarial-Attack.git`
    
 3. Install the required dependencies:
    `pip install tensorflow adversarial-robustness-toolbox matplotlib requests numpy pillow`
 
 ## Usage <a name="usage"></a>
 
-To run the Fast Gradient Adversarial Attack:
+To run the HopSkipJump Adversarial Attack:
 
   1. Open the Jupyter Notebook or Python script provided in the project directory.
 
